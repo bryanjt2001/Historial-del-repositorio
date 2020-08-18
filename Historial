@@ -41,4 +41,14 @@ a7cd8b1 Edite
 aaa8b5a A<C3><B1>adimos un mensaje
 bb98a16 A<C3><B1>ado varios archivos vacios
 
+#Tercera Forma
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git log --oneline -6
+95eb967 (HEAD -> master) Agregue un mensaje
+568f2cf Edite3
+5ee4a55 Edite2
+a7cd8b1 Edite
+aaa8b5a A<C3><B1>adimos un mensaje
+bb98a16 A<C3><B1>ado varios archivos vacios
+
 
