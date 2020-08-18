@@ -1,0 +1,34 @@
+#PRIMERA FORMA
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\Prueba>git log
+commit 95eb967e76f6efe7b420d7ae24f52e16dbc9fd3d (HEAD -> master)
+Author: bryanjt2001 <bryanjacob01@hotmail.com>
+Date:   Mon Aug 17 18:36:32 2020 -0500
+
+    Agregue un mensaje
+
+commit 568f2cf65f7958875c471246800a1f8ea3855374
+Author: bryanjt2001 <bryanjacob01@hotmail.com>
+Date:   Mon Aug 17 18:11:10 2020 -0500
+
+    Edite3
+
+commit 5ee4a551373b981105f7914d27fbda5c5302e8ca
+Author: bryanjt2001 <bryanjacob01@hotmail.com>
+Date:   Mon Aug 17 18:07:47 2020 -0500
+
+    Edite2
+
+commit a7cd8b170ca6d82e86de3256d0898b32ba9cfecc
+Author: bryanjt2001 <bryanjacob01@hotmail.com>
+Date:   Mon Aug 17 18:01:40 2020 -0500
+
+    Edite
+
+commit aaa8b5af55e65664ccecee1fc070d0be339ef7d1
+Author: bryanjt2001 <bryanjacob01@hotmail.com>
+Date:   Mon Aug 17 17:56:44 2020 -0500
+
+    A<C3><B1>adimos un mensaje
+:
+
